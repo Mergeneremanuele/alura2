@@ -1,5 +1,8 @@
-header {
-    background-color: #a5638c;
+@import url("styles/header.css");
+
+:root {
+   --cor-de-fundo: #EBECEE;
+   --branco: #FFFFFF; 
     color: rgb(248, 241, 241);
 }
 body{
@@ -7,5 +10,5 @@ body{
 }
 
 h1{
- background-color: rgb(230, 136, 214);
+ background-color: rgba(230, 161, 247, 0.336);
 }
